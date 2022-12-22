@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "TCRS '23 Workshop on Time-Centric Reactive Software"
+title: "TCRS '23 at ACM/IEEE CPS-IoT Week"
 email: info@tcrs.io
 author: "TCRS '23 organizers"
 description: >- # this means to ignore newlines until "baseurl:"
