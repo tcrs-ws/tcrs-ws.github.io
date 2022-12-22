@@ -70,3 +70,6 @@ header_pages:
   - cfp.md
 
 copyright: "Copyright 2022-{currentYear}, {author}"
+
+# Excerpt size setting
+excerpt_size: 800
