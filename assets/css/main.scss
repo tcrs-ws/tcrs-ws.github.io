@@ -58,3 +58,7 @@ $content-width: {{ site.content_width | default: '920px' }};
 .post-related {
     display: none;
 };
+
+body {
+    font-size: 16px;
+};
