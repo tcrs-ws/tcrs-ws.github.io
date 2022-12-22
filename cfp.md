@@ -49,23 +49,4 @@ Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 Please submit your paper on [HotCRP](https://tcrs23.hotcrp.com).
 
 ## Program Committee
-- Ravi Akella, DENSO International America Inc, USA
-- Grzegorz Bazydło, University of Zielona Góra, Poland
-- David Broman, KTH, Sweden
-- Jeronimo Castrillon, TU Dresden, Germany
-- Patricia Derler, Kontrol, Austria
-- Stephen Edwards, Columbia University, USA
-- Alain Girault, INRIA, France
-- Andrés Goens, University of Edinburgh
-- Erling Jellum, NTNU, Norway
-- Chadlia Jerad, University of Manouba, Tunisia
-- Hokeun Kim, Hanyang University, South Korea
-- Edward A. Lee, UC Berkeley, USA
-- Marten Lohstroh, UC Berkeley, USA
-- Shaokai Lin, UC Berkeley, USA
-- Christian Menard, TU Dresden, Germany
-- Gustavo Quiros, Siemens Technology, USA
-- Martin Schoeberl, DTU, Denmark
-- Alexander Schulz-Rosengarten, Kiel University, Germany
-- Reinhard von Hanxleden, Kiel University, Germany
-- Eugene Yip, University of Bamberg, Germany
+{% include_relative pc.md %}
