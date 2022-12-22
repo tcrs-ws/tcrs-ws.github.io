@@ -3,7 +3,7 @@
 - David Broman, KTH, Sweden
 - Jeronimo Castrillon, TU Dresden, Germany
 - Patricia Derler, Kontrol, Austria
-- Stephen Edwards, Columbia University, USA
+- Stephen A. Edwards, Columbia University, USA
 - Alain Girault, INRIA, France
 - Andrés Goens, University of Edinburgh
 - Erling Jellum, NTNU, Norway
