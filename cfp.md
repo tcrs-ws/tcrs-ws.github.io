@@ -30,7 +30,9 @@ permalink: /cfp/
 - System-level design
 
 ## Important Dates
-TBA
+- February 10, 2023: Submission deadline
+- March 3, 2023: Author notification
+- March 17, 2023:  Camera-ready submission
 
 ## Submissions
 All submissions must be in English. Only original papers that have not been submitted or published in other conferences or journals will be considered. Submitted papers must be formatted using the ACM `sigconf` format (see [authors.acm.org](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)) and not exceed 6 pages. The page limit includes title page, references, and appendices.
