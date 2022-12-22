@@ -5,8 +5,8 @@ permalink: /org/
 ---
 
 ## General Co-Chairs
-- Edward A. Lee
-- Marten Lohstroh
+- Edward A. Lee, UC Berkeley, USA
+- Marten Lohstroh, UC Berkeley, USA
 
 ## Organizing Committee
 - David Broman, KTH, Sweden
