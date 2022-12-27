@@ -72,4 +72,4 @@ header_pages:
 copyright: "Copyright 2022-{currentYear} {author}. All rights reserved."
 
 # Excerpt size setting
-excerpt_size: 800
+excerpt_size: 445
