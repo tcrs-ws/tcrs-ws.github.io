@@ -5,7 +5,7 @@ permalink: /cfp/
 ---
 
 ## Topics
-**We invite contributions focused on time-centric reactive software and technologies that support it.** Contributions may overlap with any of the following areas:
+**We invite contributions focused on time-centric reactive software and supporting technologies.** Contributions may overlap with any of the following areas:
 
 - Automotive systems
 - Compiler construction
@@ -42,7 +42,7 @@ All submissions must be in English. Only original papers that have not been subm
 ### Guidelines from the ACM
 By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM's new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy. For more information, visit [acm.org](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
 
-Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improving author discoverability, ensuring proper attribution, and contributing to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
 
 
 ### Submission site
