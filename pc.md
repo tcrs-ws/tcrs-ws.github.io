@@ -2,7 +2,6 @@
 - Grzegorz Bazydło, University of Zielona Góra, Poland
 - David Broman, KTH, Sweden
 - Jeronimo Castrillon, TU Dresden, Germany
-- Patricia Derler, Kontrol, Austria
 - Stephen A. Edwards, Columbia University, USA
 - Alain Girault, INRIA, France
 - Andrés Goens, University of Edinburgh
