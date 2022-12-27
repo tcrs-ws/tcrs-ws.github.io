@@ -9,7 +9,7 @@
 - Marten Lohstroh, UC Berkeley, USA
 
 ### Program Chair
-- Patricia Derler, Kontrol, Austria
+- Patricia Derler, Kontrol, USA
 
 ### Program Committee
 {% include_relative pc.md %}
