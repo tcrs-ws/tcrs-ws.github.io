@@ -4,8 +4,11 @@ title: Call for papers
 permalink: /cfp/
 ---
 
+# {{ page.title }}
+
+**We invite contributions focused on time-centric reactive software and supporting technologies.**
 ## Topics
-**We invite contributions focused on time-centric reactive software and supporting technologies.** Contributions may overlap with any of the following areas:
+Contributions may overlap with any of the following areas:
 
 - Automotive systems
 - Compiler construction

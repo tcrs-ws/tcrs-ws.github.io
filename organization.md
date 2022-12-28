@@ -4,5 +4,6 @@ title: Organization
 permalink: /org/
 ---
 
-## People
+# {{ page.title }}
+
 {% include_relative organizers.md %}
