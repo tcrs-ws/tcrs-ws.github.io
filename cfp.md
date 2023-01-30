@@ -38,6 +38,7 @@ More background about this workshop and its motivation can be found [here]({{ si
 - February 10, 2023: Submission deadline
 - March 3, 2023: Author notification
 - March 17, 2023: Camera-ready submission
+- May 9, 2023: Paper presentations
 
 ## Submissions
 All submissions must be in English. Only original papers that have not been submitted or published in other conferences or journals will be considered. Submitted papers must be formatted using the ACM `sigconf` format (see [authors.acm.org](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)) and not exceed **6 pages**. The page limit includes title page, references, and appendices. The review process is **blind** (not double-blind); please do not submit anonymized manuscripts.
