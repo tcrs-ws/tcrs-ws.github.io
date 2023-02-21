@@ -37,7 +37,7 @@ More background about this workshop and its motivation can be found [here]({{ si
 ## Important Dates
 - February 10, 2023: Submission deadline
 - March 3, 2023: Author notification
-- March 17, 2023: Camera-ready submission
+- March 13, 2023: Camera-ready submission
 - May 9, 2023: Paper presentations
 
 ## Submissions
