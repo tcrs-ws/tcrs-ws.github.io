@@ -67,6 +67,7 @@ header_pages:
   - index.md
   - about.md
   - organization.md
+  - program.md
   - cfp.md
 
 copyright: "Copyright 2022-{currentYear} {author}. All rights reserved."
