@@ -6,8 +6,8 @@ permalink: /program/
 
 # {{ page.title }}
 
-TCRS '23 will take place on May 9 on the main campus of the University of Texas at San Antonio (UTSA).
-Details about the exact location will follow.
+TCRS '24 will take place on at ESWEEK in Raleigh, NC.
+Details about the exact date and location will follow.
 
 ## Session 1 (Keynote)
 ### 9:00-10:00am

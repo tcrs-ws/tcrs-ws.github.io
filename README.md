@@ -1,4 +1,4 @@
-# Website for TCRS '23
+# Website for Time-Critical Reactive Systems
 
 To contribute, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
