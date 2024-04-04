@@ -1,4 +1,4 @@
-# Website for Time-Critical Reactive Systems
+# Website for Time-Critical Reactive Software
 
 To contribute, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
