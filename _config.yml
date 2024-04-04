@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "TCRS '23 at ACM/IEEE CPS-IoT Week"
+title: "TCRS '24 at ESWEEK"
 email: info@tcrs.io
-author: "The TCRS '23 Organizers"
+author: "The TCRS '24 Organizers"
 description: >- # this means to ignore newlines until "baseurl:"
    This workshop is meant as a forum for researchers interested in exploring models, languages, tools, and design methodologies for time-centric reactive systems.
-   The event is co-located with ACM/IEEE CPS-IoT Week.
+   The event is part of ESWEEK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.tcrs.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: acm-tcrs
-github_username: acm-tcrs
+github_username: tcrs-ws
 
 # Build settings
 theme: jekyll-theme-yat
@@ -58,7 +57,7 @@ plugins:
 defaults:
   home:
     heading: "Time-Centric Reactive Software"
-    subheading: "Workshop at ACM/IEEE CPS-IoT Week in San Antonio, Texas — May 9, 2023"
+    subheading: "Workshop at Embedded Systems Week (ESWEEK) 2024 in Raleigh, NC, USA"
     banner: "assets/images/banners/home.jpeg"
 
 # If you want to link only specific pages in your header, uncomment

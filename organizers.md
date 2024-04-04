@@ -1,10 +1,8 @@
 ### General Co-Chairs
-- Edward A. Lee, UC Berkeley, USA
-- Marten Lohstroh, UC Berkeley, USA
+- Jeronimo Castrillon, TU Dresden, Germany
+- Hokeun Kim, Arizona State University, USA
 
 ### Organizing Committee
-- David Broman, KTH, Sweden
-- Stephen A. Edwards, Columbia University, USA
 - Edward A. Lee, UC Berkeley, USA
 - Marten Lohstroh, UC Berkeley, USA
 
