@@ -1,7 +1,0 @@
----
-layout: post
-title:  "First edition of TCRS at CPS-IoT Week '23!"
-date:   2022-12-21 16:10:22 -0800
-categories: News
----
-We are excited to announce the inception of a brand-new workshop on Time-Centric Reactive Software (TCRS), co-located with ACM/IEEE CPS-IoT Week. This full-day workshop will be held in San Antonio, Texas, on May 9. TCRS is meant as a forum for researchers interested in exploring models, languages, tools, and design methodologies for systems in which timing and reactivity are key. Aspects of time are of interest to the broad CPS/IoT community, but they rarely play an explicit role in the semantics of software systems. Instead, timing is usually an emergent property of an implementation. This workshop will focus on work that puts time front-and-center in the design and engineering of CPS.
