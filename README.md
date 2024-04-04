@@ -9,5 +9,5 @@ For websites for future editions of TCRS, take the following steps:
 go to `Settings->General` and rename it to `tcrsYY` where `YY` denotes the year of past year's workshop.
 3. Now navigate to the GitHub page of the new `tcrsXX` repo,
 go to `Settings->General` and rename it to `acm-tcrs.github.io`.
-The new website should now be available at [tcrs-ws.github.io](https://tcrs-ws.github.io/) while the old website will be available at [tcrs-ws.github.io/tcrsYY](https://tcrs-ws.github.io/tcrsYY).
+The new website should now be available at [tcrs-ws.github.io](https://tcrs-ws.github.io/) while the old website will be available at [tcrs-ws.github.io/YYYY](https://tcrs-ws.github.io/YYYY).
 4. (**Recommended**) Archive the old repo (see [docs](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories)).
