@@ -13,8 +13,10 @@ More generally, we hope to build a community around a long-term vision, which is
 
 ## Format and Logistics
 
-The workshop is planned to be a full-day event. The program is expected to consist of about a dozen presented papers and one or two invited/keynote talks. Since this is the first iteration of this workshop, it will be hard to predict how many submissions we will receive. We solicit both invited papers and regular uninvited submissions; **all will be subject to peer-review**.
-The proceedings will be published by the ACM.
+The workshop is planned to be a full-day event.
+The program is expected to consist of about a dozen presented papers and two invited/keynote talks.
+**All paper submissions will be subject to peer review**.
+More details of the format and logistics will be announced.
 
 ## Previous Workshops
 - [TCRS '23]({{ site.baseurl }}../2023)
