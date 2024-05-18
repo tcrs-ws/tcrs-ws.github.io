@@ -1,1 +1,18 @@
-TBA
+- Fatima Anwar, UMass Amherst, USA
+- Grzegorz Bazydło, University of Zielona Góra, Poland
+- David Broman, KTH Sweden dbro@kth.se, Sweden
+- Jeronimo Castrillon, TU Dresden, Germany
+- Stephen A. Edwards, Columbia University, USA
+- Andrés Goens, University of Amsterdam, The Netherlands
+- Erwan Jahier, Verimag, France
+- Chadlia Jerad, University of Manouba, Tunisia
+- Hokeun Kim, Arizona State University, USA
+- Edward A. Lee, UC Berkeley, USA
+- Shaokai Lin, UC Berkeley, USA
+- Marten Lohstroh, UC Berkeley, USA
+- Gustavo Quiros, Siemens Technology, USA
+- Martin Schoeberl, DTU, Denmark
+- Alexander Schulz-Rosengarten, Kiel University, Germany
+- Reinhard von Hanxleden, Kiel University, Germany
+- Hoeseok Yang, Santa Clara University, USA
+- Eugene Yip, University of Bamberg, Germany
