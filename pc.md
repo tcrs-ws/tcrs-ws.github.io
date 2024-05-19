@@ -1,6 +1,6 @@
 - Fatima Anwar, UMass Amherst, USA
 - Grzegorz Bazydło, University of Zielona Góra, Poland
-- David Broman, KTH Sweden dbro@kth.se, Sweden
+- David Broman, KTH Royal Institute of Technology, Sweden
 - Jeronimo Castrillon, TU Dresden, Germany
 - Stephen A. Edwards, Columbia University, USA
 - Andrés Goens, University of Amsterdam, The Netherlands
