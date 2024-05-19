@@ -61,8 +61,10 @@ Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:T
 ### Acceptance Tiers
 At least one of the authors for each paper must fully register and present the accepted paper at the workshop.
 TCRS '24 will have two tiers of final acceptance.
+
 1. *Workshop-presentation* acceptance.
 2. *Publication-and-Workshop-presentation* acceptance.
+
 The *Workshop-presentation* tier acceptance will be given to the submissions that meet the TCRS workshop quality requirements.
 The *Publication-and-Workshop-presentation* tier acceptance will be given to the submissions that meet the quality requirements for IEEE ELS journal publication as well as the quality requirements for the TCRS workshop.
 
