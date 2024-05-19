@@ -40,6 +40,7 @@ More background about this workshop and its motivation can be found [here]({% li
 - Aug 5, 2024: Author notification for the first round of reviews
 - Aug 12, 2024: Camera-ready and video graphical abstract deadline
 - Aug 19, 2024: Final acceptance notification
+- TBD (One day during ESWEEK, the week of September 29 - October 4, 2024): Paper presentations
 
 ## Submissions
 TCRS '24 will work with [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/esl) for paper submission, reviews, and publication.
