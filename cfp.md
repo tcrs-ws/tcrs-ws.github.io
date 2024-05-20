@@ -59,7 +59,8 @@ Please submit your paper at the [Manuscript Central Submission Site](https://mc.
 Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS24**".
 
 ### Conflicts of Interest Requirements
-In addition to the manuscript, the authors are required to submit a **cover letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
+In addition to the manuscript, the authors are required to submit a **Cover Letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
+The authors can submit the cover letter during the Submission **Step 6: Details & Comments**, using a textbox under **Write Cover Letter**.
 Even if the authors do not have any COIs, they are still required to submit a cover letter confirming that they have no COIs.
 
 ### Acceptance Tiers
