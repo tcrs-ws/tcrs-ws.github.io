@@ -54,10 +54,13 @@ Submitted manuscripts must be **four pages or fewer**, including all figures, ta
 The review process is **blind** (not double-blind);
 please do not submit anonymized manuscripts.
 
-### Submission site
-Please submit your paper at the [Submission Site for
-Embedded Systems Letters](https://mc.manuscriptcentral.com/les-ieee).
+### Submission Site
+Please submit your paper at the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee).
 Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS24**".
+
+### Conflicts of Interest Requirements
+In addition to the manuscript, the authors are required to submit a **cover letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
+Even if the authors do not have any COIs, they are still required to submit a cover letter confirming that they have no COIs.
 
 ### Acceptance Tiers
 At least one of the authors for each paper must fully register and present the accepted paper at the workshop.
@@ -76,7 +79,7 @@ However, only the papers with the *Publication-and-Workshop-presentation* tier a
 Authors of the submissions will be notified with the first round of reviews.
 Below are the subsequent processes for accepted papers.
 
-1. Authors of the submissions with *Workshop-presentation* acceptance will be asked to submit the final PDFs that will be included in the "*proceedings to distribute*".
+1. Authors of the submissions with *Workshop-presentation* acceptance will be asked to submit the final PDFs that will be included in the "*proceedings to distribute*."
 The review result from IEEE ESL will be a "reject" for the submission with *Workshop-presentation* acceptance; however, the authors will receive separate notices for *Workshop-presentation* acceptance.
 
 2. Authors of the submissions with *Publication-and-Workshop-presentation* acceptance will receive a "minor revision" decision from IEEE ESL and will be required to submit the final PDF and a video graphical abstract, a short video presenting the paper.
