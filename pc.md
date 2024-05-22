@@ -11,6 +11,7 @@
 - Edward A. Lee, UC Berkeley, USA
 - Shaokai Lin, UC Berkeley, USA
 - Marten Lohstroh, UC Berkeley, USA
+- Angela Nicoara, Lucerne University of Applied Sciences and Arts, Switzerland
 - Gustavo Quiros, Siemens Technology, USA
 - Martin Schoeberl, DTU, Denmark
 - Alexander Schulz-Rosengarten, Kiel University, Germany
