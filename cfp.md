@@ -74,20 +74,23 @@ However, only the papers with the *Present-and-publish* tier acceptance will be 
 Authors of the submissions will be notified with the first round of reviews.
 Below are the subsequent processes for accepted papers.
 
-1. Authors of the submissions with *Present-only* acceptance will be asked to submit the final PDFs that will be included in the "*proceedings to be distributed*."
-The review result from IEEE ESL will be a "reject" for the submission with *Present-only* acceptance; however, the authors will receive a separate notice for *Present-only* acceptance.
+#### 1. *Present-only* acceptance
+Authors of a submission with *Present-only* acceptance will be asked to submit the final version of their paper, which will be included in the "*proceedings to be distributed*."
+Although the official review result from the IEEE ESL journal will be a "reject," the authors will receive a separate notice for *Present-only* acceptance.
 
-2. Authors of the submissions with *Present-and-publish* acceptance will receive a "minor revision" decision from IEEE ESL and will be required to submit the final camera-ready PDF and a video graphical abstract which is a short video presenting the paper.
-Both the final PDF manuscript and the video graphical abstract will be published by IEEE ESL.
+#### 2. *Present-and-publish* acceptance
+Authors of a submission with *Present-and-publish* acceptance will receive a "minor revision" decision from the IEEE ESL journal.
+The authors will be required to submit the final (and revised) version of their paper and a video graphical abstract (which is a short video presenting the paper).
+
+The final submission with *Present-and-publish* acceptance, including both the final manuscript and the video graphical abstract, will be reviewed in the second round.
+Once the final manuscript and the video graphical abstract are reviewed and meet IEEE ESL standards, the submission will receive an "accept" decision from the journal and will be included in the IEEE ESL special issue of TCRS.
+
 See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more information on the video graphical abstract.
-
-Final submissions with *Present-and-publish* acceptance, including both the final camera-ready PDF and the video graphical abstract, will be reviewed in the second round.
-Once the camera-ready PDF and the video graphical abstract are reviewed and meet IEEE ESL standards, the submission will receive an "accept" decision and will be included in the IEEE ESL special issue of TCRS.
 
 ## Important Dates
 - July 8, 2024: Paper submission deadline
 - Aug 5, 2024: Author notification for the first round of reviews
-- Aug 12, 2024: Camera-ready and video graphical abstract deadline (video graphical abstract is only required for papers accepted to)
+- Aug 12, 2024: Camera-ready and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
 - Aug 19, 2024: Final acceptance notification
 - TBD (One day during ESWEEK, tentatively October 3 or 4, 2024): Paper presentations
 
