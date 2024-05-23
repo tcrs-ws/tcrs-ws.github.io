@@ -91,7 +91,7 @@ See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more 
 - Aug 5, 2024: Author notification for the first round of reviews
 - Aug 12, 2024: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
 - Aug 19, 2024: Final acceptance notification
-- TBD (One day during ESWEEK, tentatively October 3 or 4, 2024): Paper presentations
+- October 3, 2024: Paper presentations
 
 ## Organization
 {% include_relative organizers.md %}

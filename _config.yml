@@ -57,7 +57,7 @@ plugins:
 defaults:
   home:
     heading: "Time-Centric Reactive Software"
-    subheading: "Workshop at Embedded Systems Week (ESWEEK) 2024 in Raleigh, NC, USA"
+    subheading: "Workshop at Embedded Systems Week (ESWEEK) 2024 in Raleigh, NC, USA — October 3, 2024"
     banner: "assets/images/banners/home.jpeg"
 
 # If you want to link only specific pages in your header, uncomment
