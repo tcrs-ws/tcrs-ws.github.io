@@ -75,8 +75,9 @@ Authors of the submissions will be notified with the first round of reviews.
 Below are the subsequent processes for accepted papers.
 
 #### 1. *Present-only* acceptance
+Papers that are not accepted for publication in the IEEE ESL journal may still be eligible to present at the workshop.
+In this case, the authors will receive a "reject" from IEEE ESL and a separate "Present-only" acceptance notification from TCRS.
 Authors of a submission with *Present-only* acceptance will be asked to submit the final version of their paper, which will be included in the "*proceedings to be distributed*."
-Although the official review result from the IEEE ESL journal will be a "reject," the authors will receive a separate notice for *Present-only* acceptance.
 
 #### 2. *Present-and-publish* acceptance
 Authors of a submission with *Present-and-publish* acceptance will receive a "minor revision" decision from the IEEE ESL journal.
