@@ -65,7 +65,7 @@ TCRS '24 will have two tiers of final acceptance.
 2. *Present-and-publish* acceptance.
 
 The *Present-only* tier acceptance will be given to the submissions that meet the TCRS workshop quality requirements.
-The *Present-and-publish* tier acceptance will be given to the submissions that meet the quality requirements for IEEE ELS journal publication as well as the quality requirements for the TCRS workshop.
+The *Present-and-publish* tier acceptance will be given to the submissions that are accepted for presentation at the TCRS workshop _and_ considered for publication in the IEEE ELS journal.
 
 All papers with any of these two tiers of acceptance will be presented at the workshop and distributed as proceedings of the workshop.
 However, only the papers with the *Present-and-publish* tier acceptance will be published in the IEEE ESL special issue of TCRS.
