@@ -81,7 +81,7 @@ Authors of a submission with *Present-only* acceptance will be asked to submit t
 
 #### 2. *Present-and-publish* acceptance
 Authors of a submission with *Present-and-publish* acceptance will receive a "minor revision" decision from the IEEE ESL journal.
-The authors will be required to submit a revised version of their paper and a video graphical abstract (which is a short video presenting the paper), which will be received in the second round.
+The authors will be required to submit a revised version of their paper and a video graphical abstract (which is a short video presenting the paper), which will be reviewed in the second round.
 Once the final manuscript and the video graphical abstract are reviewed and meet IEEE ESL standards, the submission will receive an "accept" decision from the journal and will be included in the IEEE ESL special issue of TCRS.
 
 See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more information on the video graphical abstract.
