@@ -17,4 +17,4 @@
 - Alexander Schulz-Rosengarten, Kiel University, Germany
 - Reinhard von Hanxleden, Kiel University, Germany
 - Hoeseok Yang, Santa Clara University, USA
-- Eugene Yip, University of Bamberg, Germany
+- Eugene Yip, GLIWA GmbH & Co. KG, Germany
