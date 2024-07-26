@@ -88,9 +88,9 @@ See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more 
 
 ## Important Dates
 - ~~July 8, 2024~~ (**Extended**) July 22, 2024: Paper submission deadline
-- Aug 5, 2024: Author notification for the first round of reviews
-- Aug 12, 2024: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
-- Aug 19, 2024: Final acceptance notification
+- August 9, 2024: Author acceptance notification for the first round of reviews
+- August 16, 2024: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
+- August 23, 2024: Final acceptance notification
 - October 3, 2024: Paper presentations
 
 ## Organization
