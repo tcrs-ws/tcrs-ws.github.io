@@ -7,7 +7,9 @@ permalink: /program/
 # {{ page.title }}
 
 TCRS '24 will take place at ESWEEK on October 3, 2024, in Raleigh, NC.
-Details about the program and location are below.
+Details about the program and location are shown below.
+
+### Date: October 3, 2024 <br> Location: Hannover II, Sheraton Raleigh Hotel
 
 ## Session 1: Coordinating Time-Sensitive Dynamic Systems
 ### 10:30-12:30
