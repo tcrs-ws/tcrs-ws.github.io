@@ -34,7 +34,7 @@ Details about the program and location are shown below.
 #### Lustre, Fast First and Fresh
 **Timothy Bourke, Marc Pouzet**
 <div style="text-align: justify">
-<b>Abstract</b> TBA
+<b>Abstract</b> The rate-synchronous model formalizes an industrial approach for composing Lustre nodes that execute at different rates. Such programs are compiled to cyclic sequential code in two steps. First, an Integer Linear Program is solved to assign each component to a phase relative to its period. Second, the corresponding step functions are ordered for execution within a cycle of the generated code. By default, programs are deterministic: for any valid schedule, the generated code calculates the values decreed by the source dataflow semantics at the specified rates. In practice, though, specifying precise values in the source program is sometimes unnecessary, impracticable, and overly constraining. In this case, the ILP constraints can be relaxed, though not necessarily completely, and their solution decides which dataflow semantics applies. Care is still required to ensure that code generation remains deterministic.
 </div>
 
 
