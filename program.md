@@ -13,6 +13,7 @@ Details about the program and location are shown below.
 
 ## Session 1: Coordinating Time-Sensitive Dynamic Systems
 ### 10:30-12:30
+#### Session Chair: Edward A. Lee
 #### Layered Scheduling: Toward Better Real-Time Lingua Franca
 **Francesco Paladino, Erling Jellum, Efsane Soyer, Edward A. Lee**
 <div style="text-align: justify">
@@ -61,6 +62,7 @@ Multi-core processors certification is now a reality and many applicants are wor
 
 ## Session 3: Timing Challenges in Cyber-Physical Systems
 ### 15:30-17:00
+#### Session Chair: Chadlia Jerad
 #### Software-Defined Watchdog Timers for Cyber-Physical Systems
 **Benjamin Asch, Erling Jellum, Marten Lohstroh, Edward A. Lee**
 <div style="text-align: justify">
