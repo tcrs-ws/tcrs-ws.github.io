@@ -36,13 +36,13 @@ Contributions may overlap with any of the following areas:
 More background about this workshop and its motivation can be found [here]({% link about.md %}).
 
 ## Submissions
-TCRS '24 will work with [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/esl) for paper submissions, reviews, and publication.
+TCRS '25 will work with [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/esl) for paper submissions, reviews, and publication.
 Submissions meeting IEEE ESL requirements will be published in the special issue of TCRS in IEEE ESL.
 All submissions must be written in English. 
 Only original papers that have not been submitted or published in other conferences or journals will be considered.
 
 ### Submission Guidelines
-Papers submitted to TCRS '24 must follow the [IEEE ESL Paper Submission Instructions](https://ieee-ceda.org/publication/esl/esl-paper-submission).
+Papers submitted to TCRS '25 must follow the [IEEE ESL Paper Submission Instructions](https://ieee-ceda.org/publication/esl/esl-paper-submission).
 Submitted manuscripts must be **four pages or fewer**, including all figures, tables, and references.
 Submissions exceeding this length will be returned without review. Papers should use 7.875 in x 10.75 in (20 cm x 27.30 cm) trim size and the IEEE transactions two-column format in 10-pt. font.
 The review process is **blind** (not double-blind);
@@ -50,7 +50,7 @@ please do not submit anonymized manuscripts.
 
 ### Submission Site
 Please submit your paper at the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee).
-Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS24**".
+Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS25**".
 
 ### Conflicts of Interest Requirements
 In addition to the manuscript, the authors are required to submit a **Cover Letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
@@ -59,7 +59,7 @@ Even if the authors do not have any COIs, they are still required to submit a co
 
 ### Acceptance Tiers
 At least one of the authors for each paper must fully register and present the accepted paper at the workshop.
-TCRS '24 will have two tiers of final acceptance.
+TCRS '25 will have two tiers of final acceptance.
 
 1. *Present-only* acceptance.
 2. *Present-and-publish* acceptance.
@@ -87,11 +87,11 @@ Once the final manuscript and the video graphical abstract are reviewed and meet
 See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more information on the video graphical abstract.
 
 ## Important Dates
-- ~~July 8, 2024~~ (**Extended**) July 22, 2024: Paper submission deadline
-- August 13, 2024: Author acceptance notification for the first round of reviews
-- August 20, 2024: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
-- August 27, 2024: Final acceptance notification
-- October 3, 2024: Paper presentations
+- June 23, 2025: Paper submission deadline
+- July 21, 2025: Notification of Acceptance.
+- July 28, 2025: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
+- August 12, 2025: Final acceptance notification
+- October 2 or 3, 2025: Paper presentations
 
 ## Organization
 {% include_relative organizers.md %}

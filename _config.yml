@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "TCRS '24 at ESWEEK"
+title: "TCRS '25 at ESWEEK"
 email: info@tcrs.io
-author: "The TCRS '24 Organizers"
+author: "The TCRS '25 Organizers"
 description: >- # this means to ignore newlines until "baseurl:"
    This workshop is meant as a forum for researchers interested in exploring models, languages, tools, and design methodologies for time-centric reactive systems.
    The event is part of ESWEEK.
@@ -57,7 +57,7 @@ plugins:
 defaults:
   home:
     heading: "Time-Centric Reactive Software"
-    subheading: "Workshop at Embedded Systems Week (ESWEEK) 2024 in Raleigh, NC, USA — October 3, 2024"
+    subheading: "Workshop at Embedded Systems Week (ESWEEK) 2025 in Taipei, Taiwan September 28 — October 3, 2025"
     banner: "assets/images/banners/home.jpeg"
 
 # If you want to link only specific pages in your header, uncomment

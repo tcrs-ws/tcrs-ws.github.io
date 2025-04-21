@@ -1,12 +1,11 @@
 ### General Co-Chairs
-- Jeronimo Castrillon, TU Dresden, Germany
 - Hokeun Kim, Arizona State University, USA
+- Jeronimo Castrillon, TU Dresden, Germany
 
 ### Organizing Committee
-- Jeronimo Castrillon, TU Dresden, Germany
-- Hokeun Kim, Arizona State University, USA
-- Edward A. Lee, UC Berkeley, USA
-- Marten Lohstroh, UC Berkeley, USA
+- Chadlia Jerad, UNiversity of Manouba, Tunisia
+- Chung-Wei Lin, National Taiwan University, Taiwan
+- Erling R. Jellum, UC Berkeley, USA
 
 ### Program Chair
 - Patricia Derler, Zoox, USA
