@@ -20,4 +20,5 @@ The program is expected to consist of about a dozen presented papers and two inv
 More details of the format and logistics will be announced.
 
 ## Previous Workshops
+- [TCRS '24]({{ site.baseurl }}../2024)
 - [TCRS '23]({{ site.baseurl }}../2023)
