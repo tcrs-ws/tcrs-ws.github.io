@@ -3,7 +3,7 @@
 - Jeronimo Castrillon, TU Dresden, Germany
 
 ### Organizing Committee
-- Chadlia Jerad, UNiversity of Manouba, Tunisia
+- Chadlia Jerad, University of Manouba, Tunisia
 - Chung-Wei Lin, National Taiwan University, Taiwan
 - Erling R. Jellum, UC Berkeley, USA
 
