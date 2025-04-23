@@ -17,7 +17,8 @@ The workshop is planned to be a full-day event.
 The program is expected to consist of about a dozen presented papers and two invited/keynote talks.
 
 **All paper submissions will be subject to peer review**.
-More details of the format and logistics will be announced.
+More details regarding the submission format can be found in the [Submission Guidelines](cfp.md#submission-guidelines). 
+Information about logistics will be announced soon.
 
 ## Previous Workshops
 - [TCRS '24]({{ site.baseurl }}../2024)
