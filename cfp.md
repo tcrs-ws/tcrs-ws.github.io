@@ -49,8 +49,9 @@ The review process is **blind** (not double-blind);
 please do not submit anonymized manuscripts.
 
 ### Submission Site
-Please submit your paper at the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee).
-Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS25**".
+<!--Please submit your paper at the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee).
+Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS25**".-->
+Submissions will be managed through the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee). The site will be open for submissions shortly. Authors are encouraged to prepare their manuscripts in advance and check the workshop website regularly for updates regarding the opening of the submission portal.
 
 ### Conflicts of Interest Requirements
 In addition to the manuscript, the authors are required to submit a **Cover Letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
