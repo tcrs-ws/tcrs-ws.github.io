@@ -48,14 +48,17 @@ Submissions exceeding this length will be returned without review. Papers should
 The review process is **blind** (not double-blind);
 please do not submit anonymized manuscripts.
 
-### Submission Site
-<!--Please submit your paper at the [Manuscript Central Submission Site](https://mc.manuscriptcentral.com/les-ieee).
-Click on "**Author**," create a new manuscript, and select "**Type**" as "**SI:TCRS25**".-->
-Submissions will be managed through the [IEEE Author Portal for IEEE ESL](https://ieee.atyponrex.com/journal/les-ieee). The article type for TCRS25 will be set up shortly. Authors are encouraged to prepare their manuscripts in advance and check the workshop website regularly for updates regarding the opening of the submission portal.
+### Submission Instructions
+Submissions will be managed through the [IEEE Author Portal for IEEE ESL](https://ieee.atyponrex.com/journal/les-ieee). 
+
+Once you are signed in to the IEEE Author Portal, click on "Start submission" at the top right.
+Then, click on "Article Type" under the "Your Progress" menu on the right.
+On the next page, choose "TCRS 2025" under the dropdown menu.
+After confirming the check boxes, you will be prompted to upload your manuscript.
 
 ### Conflicts of Interest Requirements
-In addition to the manuscript, the authors are required to submit a **Cover Letter** indicating the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
-The authors can submit the cover letter during the Submission **Step 6: Details & Comments**, using a textbox under **Write Cover Letter**.
+In addition to the manuscript, the authors are required to submit the **Conflicts of Interest (COIs)** with the program committee members through Manuscript Central.
+The authors are required to submit the cover letter during the submission process.
 Even if the authors do not have any COIs, they are still required to submit a cover letter confirming that they have no COIs.
 
 ### Acceptance Tiers
