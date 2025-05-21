@@ -1,1 +1,16 @@
-TBA
+- Fatima Anwar, UMass Amherst, USA
+- Jeronimo Castrillon, TU Dresden, Germany
+- Samarjit Chakraborty, University of North Carolina at Chapel Hill, USA
+- Stephen A. Edwards, Columbia University, USA
+- Alain Girault, INRIA - Grenoble, France
+- Erwan Jahier, Verimag, France
+- Erling R. Jellum, UC Berkeley, USA
+- Chadlia Jerad, University of Manouba, Tunisia
+- Hokeun Kim, Arizona State University, USA
+- Edward A. Lee, UC Berkeley, USA
+- Chung-Wei Lin, National Taiwan University, Taiwan
+- Claire Pagetti, ONERA - Toulouse, France
+- Martin Schoeberl, DTU, Denmark
+- Jonathan Sprinkle, Vanderbilt University, USA
+- Hoeseok Yang, Santa Clara University, USA
+- Eugene Yip, GLIWA GmbH & Co. KG, Germany
