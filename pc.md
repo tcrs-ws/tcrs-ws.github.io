@@ -9,6 +9,7 @@
 - Hokeun Kim, Arizona State University, USA
 - Edward A. Lee, UC Berkeley, USA
 - Chung-Wei Lin, National Taiwan University, Taiwan
+- Shaokai	Lin, UC Berkeley, USA
 - Claire Pagetti, ONERA - Toulouse, France
 - Martin Schoeberl, DTU, Denmark
 - Jonathan Sprinkle, Vanderbilt University, USA
