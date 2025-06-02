@@ -94,7 +94,7 @@ See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more 
 - July 21, 2025: Notification of Acceptance.
 - July 28, 2025: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
 - August 12, 2025: Final acceptance notification
-- October 2 or 3, 2025: Paper presentations
+- Octobe 2, 2025: Paper presentations at the Taipei International Convention Center (TICC), Room 101C
 
 ## Organization
 {% include_relative organizers.md %}
