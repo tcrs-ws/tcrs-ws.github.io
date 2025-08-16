@@ -45,7 +45,7 @@ The detailed program, including keynotes and technical sessions, will be announc
 <b>Abstract</b>-Vehicle platoon merging presents significant challenges due to varying speeds, gap estimation errors, and synchronization issues. Heterogeneous controllers, in particular, can cause mismatches in control dynamics, resulting in inconsistent acceleration responses, unstable gap spacing, and unpredictable behaviors that negatively impact user comfort and safety. This work investigates the merging performance of 25 controller combinations, pairing five controllers and testing them across three merging scenarios, with a focus on both user comfort and safety gaps. We identify key trade-offs: mismatches between reactive and predictive controllers often lead to higher jerk, and some joining controllers experience elevated jerk during merging with braking disturbances, resulting in poor comfort. To address these issues, we propose an adaptive transitory controller—a simple assistance module for the joining platoon leader—that enhances compatibility with various preceding controllers and merging scenarios. Results show consistent performance and a 58.38% improvement in user comfort while maintaining gap safety. We also discuss the limitations of our approach and propose directions for future work to further improve robustness.
 </div>
 
-## Session 2: System and Architecture Design for Time-Sesntive Software
+## Session 2: System and Architecture Design for Time-Sensitive Software
 ### 13:30-15:00
 #### Session Chair: Chung-Wei Lin
 #### Deterministic Modeling and Simulation of Fault-Tolerant Real-Time Software
