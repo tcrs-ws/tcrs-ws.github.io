@@ -75,7 +75,7 @@ The detailed program, including keynotes and technical sessions, will be announc
 <b>Abstract</b>-TBA
 </div>
 
-#### Safety-Driven DNN Sizing for CPS Software
+#### Safety-Driven DNN Sizing for Vehicular CPS
 ***Tingan Zhu, Mier Li, Bineet Ghosh, Samarjit Chakraborty, Parasara Sridhar Duggirala***
 <div style="text-align: justify">
 <b>Abstract</b>-TBA
