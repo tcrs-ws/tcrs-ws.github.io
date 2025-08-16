@@ -13,7 +13,7 @@ The detailed program, including keynotes and technical sessions, will be announc
 ### Date: October 2, 2025 <br> Location: Room 101C, Taipei International Convention Center (TICC)
 
 ## Keynote
-### 9:00-10:00am
+### 9:00-10:00
 #### Time Sensitive Requirement and Applications for Connected Vehicles
 ![Chi-Sheng Shih]({{ site.baseurl }}/assets/images/chi-sheng_shih.jpg){: style="float: left; margin-top: 1em; margin-right: 1.8em; margin-bottom: .8em"}
 <div style="text-align: justify">
@@ -67,7 +67,7 @@ The detailed program, including keynotes and technical sessions, will be announc
 </div>
 
 ## Session 3: Towards Timely and Safe Neural Networks
-### 15:30-17:00
+### 15:30-16:30
 #### Session Chair: TBA
 #### Combining Early Exit and Selective Prediction for Convolutional Neural Networks
 ***Hasna Bouraoui, Chadlia Jerad, Jeronimo Castrillon***
