@@ -24,11 +24,59 @@ The detailed program, including keynotes and technical sessions, will be announc
 <b>Abstract</b>-TBA
 </div>
 
-## Session 1: TBA
+## Session 1: Real-Time Coordination for Connected and Intelligent Vehicles
 ### 10:30-12:00
+#### Session Chair: TBA
+#### Value-Aware Real-Time Scheduling for Intelligent Transportation Systems
+***Hoeseok Yang, Hokeun Kim, Choonghwan Lee, Hyung-Chan An***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
 
-## Session 2: TBA
+#### Software-Defined Vehicles: Challenges and Orchestrating Mixed-Criticality Services Using Lingua Franca
+***Wenhung Kevin Huang, Yoshinori Terazawa, Yutaka Matsubara, Akihito Iwai***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
+
+#### Compatibility Analysis and Smooth Transition of Heterogeneous Controllers in Longitudinal Merging Platoons
+***Pintusorn Suttiponpisarn, Chung-Wei Lin***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
+
+## Session 2: System and Architecture Design for Time-Sesntive Software
 ### 13:30-15:00
+#### Session Chair: TBA
+#### Deterministic Modeling and Simulation of Fault-Tolerant Real-Time Software
+***Dongha Kim, Hokeun Kim***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
 
-## Session 3: TBA
+#### ForSyDe on the Patmos Processor
+***Ehsan Khodadad, Ingo Sander, Luca Pezzarossa, Martin Schoeberl***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
+
+#### LLVM-Based Hybrid Cache and TCM Memory Allocation Optimization for Low-Latency, Energy-Efficient Execution
+***Gihyeon Jeon, Daejin Park***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
+
+## Session 3: Towards Timely and Safe Neural Networks
 ### 15:30-17:00
+#### Session Chair: TBA
+#### Combining Early Exit and Selective Prediction for Convolutional Neural Networks
+***Hasna Bouraoui, Chadlia Jerad, Jeronimo Castrillon***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
+
+#### Safety-Driven DNN Sizing for CPS Software
+***Tingan Zhu, Mier Li, Bineet Ghosh, Samarjit Chakraborty, Parasara Sridhar Duggirala***
+<div style="text-align: justify">
+<b>Abstract</b>-TBA
+</div>
