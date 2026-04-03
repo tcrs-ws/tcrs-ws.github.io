@@ -21,5 +21,6 @@ More details regarding the submission format can be found in the [Submission Gui
 Information about logistics will be announced soon.
 
 ## Previous Workshops
+- [TCRS '25]({{ site.baseurl }}../2025)
 - [TCRS '24]({{ site.baseurl }}../2024)
 - [TCRS '23]({{ site.baseurl }}../2023)
