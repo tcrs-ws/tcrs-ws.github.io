@@ -1,4 +1,4 @@
-### General Co-Chair
+### General Chair
 - Hokeun Kim, Arizona State University, USA
 
 ### Organizing Committee
