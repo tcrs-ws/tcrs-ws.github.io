@@ -3,7 +3,7 @@
 
 ### Organizing Committee
 - [Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/), National Taiwan University, Taiwan
-- [Sebastiano Gaiardelli](https://sbgaia.github.io/), University of Verona, Italy
+- [Sebastiano Gaiardelli](https://sbgaia.github.io/), Technical University of Munich, Germany
 
 ### Program Chair
 - [Patricia Derler](https://sites.google.com/site/patriciaderler/home), Zoox, USA
