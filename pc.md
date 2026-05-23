@@ -1,1 +1,11 @@
-TBA
+- Samarjit Chakraborty, University of North Carolina at Chapel Hill, USA
+- Sebastiano Gaiardelli, Technical University of Munich, Germany
+- Marc Geilen, TU Eindhoven, Netherlands
+- Erwan Jahier, Verimag, France
+- Hokeun Kim, Arizona State University, USA
+- Edward A. Lee, UC Berkeley, USA
+- Chung-Wei Lin, National Taiwan University, Taiwan
+- Claire Pagetti, ONERA - Toulouse, France
+- Martin Schoeberl, DTU, Denmark
+- Hoeseok Yang, Santa Clara University, USA
+- Eugene Yip, GLIWA GmbH & Co. KG, Germany
