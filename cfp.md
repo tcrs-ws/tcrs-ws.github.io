@@ -121,10 +121,10 @@ Once the final manuscript and the video graphical abstract are reviewed and meet
 See [here](https://ieee-ceda.org/publication/esl/esl-paper-submission) for more information on the video graphical abstract.
 
 ## Important Dates
-- June 22, 2026: Paper submission deadline
-- July 20, 2026: Notification of Acceptance.
-- July 27, 2026: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
-- August 10, 2026: Final acceptance notification
+- ~~June 22, 2026~~ (**Extended**) July 1, 2026: Paper submission deadline
+- July 24, 2026: Notification of Acceptance.
+- July 31, 2026: Final manuscript and video graphical abstract deadline (video graphical abstract is only required for papers with *Present-and-publish acceptance*)
+- August 14, 2026: Final acceptance notification
 - October 8 or 9 (TBD), 2026: Paper presentations.
 
 
