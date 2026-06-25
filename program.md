@@ -6,5 +6,5 @@ permalink: /program/
 
 # {{ page.title }}
 
-TCRS '26 will take place during ESWEEK October 8 or 9, 2026, in Barcelona, Spain.
-The program, location and exact date and time, will be announced.
+TCRS '26 will take place during ESWEEK on October 8, 2026, in Barcelona, Spain.
+The program, location, and exact time will be announced soon.
