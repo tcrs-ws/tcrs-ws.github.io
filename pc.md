@@ -3,9 +3,11 @@
 - Marc Geilen, TU Eindhoven, Netherlands
 - Erwan Jahier, Verimag, France
 - Hokeun Kim, Arizona State University, USA
+- Chanhee Lee, University of Central Florida, USA
 - Edward A. Lee, UC Berkeley, USA
 - Chung-Wei Lin, National Taiwan University, Taiwan
 - Claire Pagetti, ONERA - Toulouse, France
 - Martin Schoeberl, DTU, Denmark
+- Hwisoo So, Kyungpook National University, South Korea
 - Hoeseok Yang, Santa Clara University, USA
 - Eugene Yip, GLIWA GmbH & Co. KG, Germany
