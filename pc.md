@@ -1,4 +1,5 @@
 - Samarjit Chakraborty, University of North Carolina at Chapel Hill, USA
+- Enrico Fraccaroli, University of Verona, Italy
 - Sebastiano Gaiardelli, Technical University of Munich, Germany
 - Marc Geilen, TU Eindhoven, Netherlands
 - Erwan Jahier, Verimag, France
@@ -8,6 +9,7 @@
 - Edward A. Lee, UC Berkeley, USA
 - Chung-Wei Lin, National Taiwan University, Taiwan
 - Claire Pagetti, ONERA - Toulouse, France
+- Francesco Paladino, UC Berkeley, USA
 - Martin Schoeberl, DTU, Denmark
 - Hwisoo So, Kyungpook National University, South Korea
 - Hoeseok Yang, Santa Clara University, USA
