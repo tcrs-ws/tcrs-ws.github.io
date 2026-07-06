@@ -2,6 +2,7 @@
 - Sebastiano Gaiardelli, Technical University of Munich, Germany
 - Marc Geilen, TU Eindhoven, Netherlands
 - Erwan Jahier, Verimag, France
+- Philipp H. Kindt, Technical University of Munich, Germany
 - Hokeun Kim, Arizona State University, USA
 - Chanhee Lee, University of Central Florida, USA
 - Edward A. Lee, UC Berkeley, USA
