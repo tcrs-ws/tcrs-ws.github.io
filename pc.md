@@ -1,5 +1,6 @@
 - Samarjit Chakraborty, University of North Carolina at Chapel Hill, USA
 - Enrico Fraccaroli, University of Verona, Italy
+- Framco Fummi, University of Verona, Italy
 - Sebastiano Gaiardelli, Technical University of Munich, Germany
 - Marc Geilen, TU Eindhoven, Netherlands
 - Erwan Jahier, Verimag, France
