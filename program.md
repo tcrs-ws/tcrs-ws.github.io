@@ -16,7 +16,7 @@ Details about the program and location are shown below.
 ### Thursday, October 8, 9:00-10:30
 #### Opening Remarks: [Hokeun Kim](https://hokeun.github.io/)
 
-#### Keynote:  (Title TBA) By Prof. [Samarjit Chakraborty](https://www.cs.unc.edu/%7Esamarjit/)
+#### Keynote: "Is Time-Critical the Same as Safety-Critical? Rethinking the Distinction in an Era of AI and Increasing System Complexity" By Prof. [Samarjit Chakraborty](https://www.cs.unc.edu/%7Esamarjit/)
 ![Samarjit Chakraborty]({{ site.baseurl }}/assets/images/samarjit_chakraborty.jpg){: style="float: left; margin-top: 1em; margin-right: 1.8em; margin-bottom: .8em"}
 <div style="text-align: justify">
 <b>Prof. Samarjit Chakraborty</b> is Kenan Distinguished Professor of Computer Science and an adjunct professor of Mathematics at the University of North Carolina at Chapel Hill.
