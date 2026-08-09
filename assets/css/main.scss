@@ -66,3 +66,122 @@ body {
 .post-content h1 {
     font-size: 32px;
 }
+
+/**
+ * "Previous Workshops" dropdown in the header nav
+ */
+.site-nav .nav-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.site-nav .nav-dropdown-toggle {
+    font: inherit;
+    color: inherit;
+    line-height: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.site-nav .nav-dropdown-toggle:hover {
+    text-decoration: underline;
+}
+
+.site-nav .nav-dropdown-caret {
+    margin-left: 5px;
+    vertical-align: middle;
+    transition: transform 0.15s ease-in-out;
+}
+
+.site-nav .nav-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 10;
+    display: none;
+    min-width: 160px;
+    margin: 6px 0 0;
+    padding: 6px 0;
+    list-style: none;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px 1px rgba(0, 0, 0, .18);
+}
+
+.site-nav .nav-dropdown:hover .nav-dropdown-menu,
+.site-nav .nav-dropdown.is-open .nav-dropdown-menu {
+    display: block;
+}
+
+.site-nav .nav-dropdown:hover .nav-dropdown-caret,
+.site-nav .nav-dropdown.is-open .nav-dropdown-caret {
+    transform: rotate(180deg);
+}
+
+.site-nav .nav-dropdown-menu a {
+    display: block;
+    padding: 6px 18px;
+    color: #353535;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
+.site-nav .nav-dropdown-menu a:hover {
+    color: #ff5100;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, .05);
+}
+
+// Dark mode (the theme sets data-theme on <html>)
+html[data-theme="dark"] {
+    .site-nav .nav-dropdown-menu {
+        background-color: #090909;
+        box-shadow: 0 0 3px 1px rgba(0, 0, 0, .36);
+    }
+
+    .site-nav .nav-dropdown-menu a {
+        color: #f8f8f8;
+
+        &:hover {
+            color: #ff5100;
+            background-color: #222;
+        }
+    }
+}
+
+// Collapsed (hamburger) nav: render the dropdown inline as an indented list
+// instead of a floating panel, so it stays usable on small screens.
+@media screen and (max-width: 800px) {
+    .site-nav .nav-dropdown {
+        display: block;
+    }
+
+    .site-nav .nav-dropdown-menu {
+        position: static;
+        display: block;
+        min-width: 0;
+        margin: 0;
+        padding: 0 0 0 16px;
+        background: none;
+        box-shadow: none;
+    }
+
+    .site-nav .nav-dropdown-toggle {
+        pointer-events: none;
+    }
+
+    .site-nav .nav-dropdown-caret {
+        display: none;
+    }
+
+    .site-nav .nav-dropdown-menu a {
+        padding: 5px 0;
+        color: inherit;
+        opacity: 0.8;
+    }
+}

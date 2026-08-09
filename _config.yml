@@ -70,6 +70,15 @@ header_pages:
   - resources.md
   - cfp.md
 
+# Rendered as the "Previous Workshops" dropdown at the end of the header nav
+previous_workshops:
+  - title: "TCRS '25"
+    url: /2025/
+  - title: "TCRS '24"
+    url: /2024/
+  - title: "TCRS '23"
+    url: /2023/
+
 copyright: "Copyright 2022-{currentYear} {author}. All rights reserved."
 
 # Excerpt size setting
