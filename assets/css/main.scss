@@ -35,6 +35,15 @@ $brand-color: map-get($brand-colors, "orangered");
 
 $content-width: {{ site.content_width | default: '920px' }};
 
+// Link text colors (the theme defaults links to $brand-color, i.e. orangered)
+$link-color: #0d47a1;       // dark blue, for the light theme
+$link-color-dark: #79b8ff;  // light blue, for the dark theme
+
+// Width below which the header nav collapses into the hamburger menu. The
+// theme collapses at $on-laptop (800px), but with six items the nav needs
+// ~1180px before it runs into the site brand.
+$nav-collapse: 1220px;
+
 @import "yat";
 
 .page-banner-heading {
@@ -65,6 +74,36 @@ body {
 
 .post-content h1 {
     font-size: 32px;
+}
+
+/**
+ * Link text: dark blue in the light theme, light blue in the dark theme.
+ * The header nav, site brand, and accent backgrounds keep their own colors.
+ */
+a {
+    color: $link-color;
+}
+
+.site-footer a {
+    color: $link-color;
+
+    &:hover {
+        color: lighten($link-color, 10%);
+    }
+}
+
+html[data-theme="dark"] {
+    a {
+        color: $link-color-dark;
+    }
+
+    .site-footer a {
+        color: $link-color-dark;
+
+        &:hover {
+            color: lighten($link-color-dark, 10%);
+        }
+    }
 }
 
 /**
@@ -154,9 +193,85 @@ html[data-theme="dark"] {
     }
 }
 
+/**
+ * Collapse the nav into the hamburger menu below $nav-collapse rather than the
+ * theme's $on-laptop. Mirrors the theme's own collapse rules (_layout.scss and
+ * _dark.scss) at the wider breakpoint; nothing else keys off $on-laptop here,
+ * so the banner and the article TOC keep the theme's 800px behavior.
+ */
+@include media-query($nav-collapse) {
+    .site-nav {
+        position: absolute;
+        top: 0;
+        text-align: left;
+
+        label[for="nav-trigger"] {
+            display: block;
+            z-index: 2;
+            cursor: pointer;
+        }
+
+        .menu-icon {
+            display: block;
+            float: right;
+            text-align: center;
+
+            > svg {
+                fill: rgba($header-text-color, 80%);
+                transition: 0.1s fill;
+            }
+        }
+
+        input ~ .trigger {
+            clear: both;
+            display: none;
+            border-radius: 3px;
+            box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .06);
+        }
+
+        input:checked ~ .trigger {
+            display: block;
+            background: $header-background-color;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+            color: rgba($header-text-color, 80%);
+            margin: 0 25px;
+        }
+    }
+
+    // Transparent header at the top of the page: the collapsed panel sits on
+    // its own background, so its links go back to the normal header color.
+    html[data-scroll-status='top'] header.site-header-transparent.site-header {
+        .page-link {
+            color: $header-text-color;
+        }
+
+        .menu-icon > svg {
+            fill: $white-color;
+        }
+    }
+
+    html[data-theme="dark"] {
+        &[data-scroll-status='top'] header.site-header-transparent.site-header .page-link {
+            color: #f8f8f8;
+        }
+
+        .menu-icon > svg {
+            fill: rgba(#bbb, 80%);
+        }
+
+        .site-nav input:checked ~ .trigger {
+            background-color: #090909;
+        }
+    }
+}
+
 // Collapsed (hamburger) nav: render the dropdown inline as an indented list
 // instead of a floating panel, so it stays usable on small screens.
-@media screen and (max-width: 800px) {
+@include media-query($nav-collapse) {
     .site-nav .nav-dropdown {
         display: block;
     }
