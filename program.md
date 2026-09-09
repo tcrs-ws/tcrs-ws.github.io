@@ -69,8 +69,11 @@ scheduling. This letter formulates controlled degradation, which sheds applicati
 
 Interrupt-driven communication is widely used in embedded systems to transfer data from hardware peripherals to software through finite-capacity receive FIFOs. Selecting the FIFO interrupt threshold requires balancing processor overhead against communication reliability under varying interrupt latency, yet existing approaches rely primarily on empirical tuning and vendor guidelines without analytical guarantees. This paper presents a reactor-based framework for modeling and analyzing interrupt-driven communication, enabling systematic determination of safe interrupt thresholds and runtime adaptation to changing execution conditions. The proposed methodology is evaluated using a Lingua Franca implementation of a GNSS correction-data pipeline as a representative case study. Experimental results validate the proposed framework, accurately predict FIFO overflow boundaries, and demonstrate robust communication across varying interrupt-latency conditions.
 
-#### 2.3 Deadline-Bounded Re-execution for Soft-Error Resilience using Reactor Models and Lingua Franca
+#### 2.3 Deadline-Bounded Re-execution for Soft Error Resilience using Reactor Models and Lingua Franca
 ***Hwisoo So, Hokeun Kim***
+
+Soft errors can cause detected unrecoverable errors (DUEs) and silent data corruptions (SDCs) in real-time systems, requiring resilience mechanisms that satisfy both timing and reliability requirements. Existing fault-aware scheduling approaches typically account for re-execution using worst-case execution time (WCET), which is safe for schedulability analysis but can hide runtime re-execution opportunities created by shorter actual execution times or early DUE detection. This paper presents a deadline-bounded re-execution model using Lingua Franca (LF), where re-executions are treated as deadline-aware attempts rather than statically reserved WCET replicas. The proposed model triggers re-execution based on DUE detection or estimated SDC probability of completed executions, while LF deadline handlers make insufficient slack a first-class observable outcome. We implement an LF-based simulation framework to study how DUEs, SDCs, voting, deadline violations, and re-executions interact under soft error resilience policies.
+
 #### 2.4 RACE-MiCS: Reliability-Aware Checkpointing and Execution-Time Bounding for Embedded Mixed-Criticality Systems
 ***Mohammad Abbasinia, Behnaz Ranjbar, Akash Kumar***
 
@@ -102,6 +105,8 @@ Modern railway systems are moving toward higher Grades of Automation (GoA), yet 
 #### 3.4 ECAL: An Event-Level Timing Model for Distributed Cyber-Physical Systems
 ***Guangyu Feng, Edward A. Lee***
 
+The CAL theorem quantifies worst-case unavailabilfity in distributed cyber-physical systems in terms of inconsistency and latency, but does not model how individual events accumulate delay. We expose assumptions underlying CAL and derive ECAL, a per-event timing model that attributes each event’s delay to its causal timing sources, makes delay propagation across events explicit, and enables event-level timing diagnosis and what-if analysis. From ECAL, we derive an event-preserving counterpart of the CAL relation and show that CAL’s aggregate form can underestimate worst-case unavailability unless additional conditions, such as static per-link inconsistency, hold. Using ECAL to examine the broader 2023 CAL formulation, we identify limitations in its apparent-latency decomposition and fixed-point processing-offset computation. The compositional apparent latency can differ from its trace-measured value, and the computed worst-case unavailability can underestimate the realized unavailability.
+
 ## Session 4: AI-Enabled Time-Sensitive Systems
 ### Friday, October 9, 9:00-10:20
 #### Session Chair: [Edward A. Lee](https://ptolemy.berkeley.edu/~eal/)
@@ -122,6 +127,8 @@ As AI agents increasingly run on embedded and edge devices, supporting long-cont
 
 #### 4.4 Time-constrained Vision Language Model Inference using Semantic Caching for Autonomous Driving
 ***Chanhee Lee, Manuel Branco Nardi***
+
+Vision-language models (VLMs) have shown strong potential for understanding complex driving environments, but their high inference latency remains challenging under real-time constraints. To address this challenge, we propose a semantic caching-based VLM inference for autonomous driving context analysis. The key idea is to identify semantically similar road scenes and reuse the VLM outputs of the previously stored scenes. Our approach integrates CLIP-based image embeddings and a vector database into the Lingua Franca (LF) reactor model to ensure time constraints are met. Evaluation with three VLMs demonstrates that the proposed approach achieves an average inference throughput 10.5 times higher than VLM inference without caching while maintaining high inference accuracy across various driving-scene types.
 
 ## Session 5: CPS Observability and Resource Management
 ### Friday, October 9, 11:00-12:20
