@@ -10,7 +10,7 @@ TCRS '26 will be organized as a two-day workshop and take place during ESWEEK on
 Please visit [ESWEEK's webpage](https://esweek.org/travel-and-venue/) for more information about the TCRS workshop venue.
 Details about the program and location are shown below.
 
-### Dates: October 8 and 9, 2026 (Two-day Workshop)<br> Location: Hotel Barceló Sants
+### Dates: October 8 and 9, 2026 (Two-day Workshop)<br> Location: MR04.2, Hotel Barceló Sants
 
 ## Opening Remarks and Keynote
 ### Thursday, October 8, 9:00-10:30
