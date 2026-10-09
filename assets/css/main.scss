@@ -41,8 +41,8 @@ $link-color-dark: #79b8ff;  // light blue, for the dark theme
 
 // Width below which the header nav collapses into the hamburger menu. The
 // theme collapses at $on-laptop (800px), but with six items the nav needs
-// ~1180px before it runs into the site brand.
-$nav-collapse: 1220px;
+// ~1220px before it runs into the site brand.
+$nav-collapse: 1260px;
 
 @import "yat";
 
@@ -194,6 +194,34 @@ html[data-theme="dark"] {
 }
 
 /**
+ * LinkedIn link: icon only in the full nav, icon + label in the hamburger menu
+ */
+.site-nav .nav-social {
+    .fa {
+        font-size: 1.25em;
+        vertical-align: -0.1em;
+    }
+
+    .nav-social-label {
+        display: none;
+    }
+
+    &:hover {
+        text-decoration: none !important;
+        opacity: 0.75;
+    }
+}
+
+.footer-social {
+    margin-bottom: 8px;
+
+    .fa {
+        font-size: 1.2em;
+        margin-right: 2px;
+    }
+}
+
+/**
  * Collapse the nav into the hamburger menu below $nav-collapse rather than the
  * theme's $on-laptop. Mirrors the theme's own collapse rules (_layout.scss and
  * _dark.scss) at the wider breakpoint; nothing else keys off $on-laptop here,
@@ -272,6 +300,11 @@ html[data-theme="dark"] {
 // Collapsed (hamburger) nav: render the dropdown inline as an indented list
 // instead of a floating panel, so it stays usable on small screens.
 @include media-query($nav-collapse) {
+    .site-nav .nav-social .nav-social-label {
+        display: inline;
+        margin-left: 8px;
+    }
+
     .site-nav .nav-dropdown {
         display: block;
     }

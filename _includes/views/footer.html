@@ -11,6 +11,13 @@
               | replace: '(p)', '℗'
               | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
           -%}
+        {%- if site.linkedin_url -%}
+        <div class="footer-social">
+          <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener">
+            <i class="fa fa-linkedin-square" aria-hidden="true"></i> Follow TCRS on LinkedIn
+          </a>
+        </div>
+        {%- endif -%}
         <div>{{ copyright }}</div>
       </div>
     </div>

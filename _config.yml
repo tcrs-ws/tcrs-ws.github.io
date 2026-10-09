@@ -79,6 +79,9 @@ previous_workshops:
   - title: "TCRS '23"
     url: /2023/
 
+# LinkedIn page, linked from the header icon and the footer
+linkedin_url: https://www.linkedin.com/company/tcrs-ws/
+
 copyright: "Copyright 2022-{currentYear} {author}. All rights reserved."
 
 # Excerpt size setting
